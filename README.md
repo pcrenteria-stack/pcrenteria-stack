@@ -18,4 +18,4 @@ Rust · Palantir Gotham/Maven · Azure · Data Analysis · Technical Report Writ
 
 Let's connect
 
-LinkedIn · patrickrenteria24@gmail.com
+[LinkedIn](https://www.linkedin.com/in/patrickrenteria/) · patrickrenteria24@gmail.com
